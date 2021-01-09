@@ -1,0 +1,29 @@
+Command line:
+   fk_1_fk_1_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54611
+
+Fri Oct 23 14:38:51 2020
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 4679.05 Meg
+
+ Total Signals          : 57
+ Total Nets             : 34
+ Total Signal Drivers   : 9
+ Total Blocks           : 10
+ Total Primitive Blocks : 8
+ Total Processes        : 9
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 517
+Total Line Count : 9
+
+ Total Simulation Time: 0.078125 sec
+
+ Current Memory Usage: 4993.63 Meg
+
+Fri Oct 23 14:39:42 2020
+

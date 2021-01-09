@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/STUDIA/V semestr/UCISW/Lab_6/detektor_maszynaStanow/testBench_sekwencja_maszyna_isim_beh.exe" -prj "D:/STUDIA/V semestr/UCISW/Lab_6/detektor_maszynaStanow/testBench_sekwencja_maszyna_beh.prj" "work.testBench_sekwencja_maszyna" 

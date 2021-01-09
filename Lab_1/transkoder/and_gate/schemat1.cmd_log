@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "D:/Xilinx_programy/test_project/schemat1.xst" -ofn "D:/Xilinx_programy/test_project/schemat1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 schemat1.ngc schemat1.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o schemat1_map.ncd schemat1.ngd schemat1.pcf 
+par -w -intstyle ise -ol high -mt off schemat1_map.ncd schemat1.ncd schemat1.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml schemat1.twx schemat1.ncd -o schemat1.twr schemat1.pcf 

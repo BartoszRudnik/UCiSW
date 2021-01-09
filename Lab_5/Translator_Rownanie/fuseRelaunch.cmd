@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Xilinx_programy/LAB5/Translator_Rownanie/test_translator_vhdl_isim_beh.exe" -prj "D:/Xilinx_programy/LAB5/Translator_Rownanie/test_translator_vhdl_beh.prj" "work.test_translator_vhdl" 

@@ -1,0 +1,2 @@
+vhdl work "vhdl_detektor.vhd"
+vhdl work "testBench_sekwencja_maszyna.vhd"

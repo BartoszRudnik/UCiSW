@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/STUDIA/V semestr/UCISW/Lab_5/Translator_Tablica/testTablicowytestBenchtr_isim_beh.exe" -prj "D:/STUDIA/V semestr/UCISW/Lab_5/Translator_Tablica/testTablicowytestBenchtr_beh.prj" "work.testTablicowytestBenchtr" 

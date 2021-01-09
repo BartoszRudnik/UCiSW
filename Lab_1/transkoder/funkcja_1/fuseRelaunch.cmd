@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/huawei/Desktop/funkcja_1/fk_1_isim_beh.exe" -prj "C:/Users/huawei/Desktop/funkcja_1/fk_1_beh.prj" "work.fk_1" 

@@ -1,0 +1,3 @@
+-Zainstalować Xilinx
+-Pod koniec kazdych zajęć ocena
+-Sprawozdanie po kazdych zajeciach (schematy, opis, obrazki z symulacji z komentarzem), pdf wysłać mailem, czas do kolejnych zajęć

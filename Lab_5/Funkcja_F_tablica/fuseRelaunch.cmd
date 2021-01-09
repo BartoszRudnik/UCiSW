@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/STUDIA/V semestr/UCISW/Lab_5/Funkcja_F_tablica/funckja_f_tablica_test_isim_beh.exe" -prj "D:/STUDIA/V semestr/UCISW/Lab_5/Funkcja_F_tablica/funckja_f_tablica_test_beh.prj" "work.funckja_f_tablica_test" 
