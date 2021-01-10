@@ -25,27 +25,30 @@
     <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Licznik8Bit_TestBench_beh.prj"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Licznik8Bit_TestBench_isim_beh.exe"/>
     <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="Licznik8Bit_TestBench_isim_beh.wdb"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Licznik_vhdlModule_isim_beh.exe"/>
     <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
     <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
   </files>
 
   <transforms xmlns="http://www.xilinx.com/XMLSchema">
     <transform xil_pn:end_ts="1610273574" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1610273574">
       <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1610273705" xil_pn:in_ck="-3868355138964531919" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1610273705">
+    <transform xil_pn:end_ts="1610274805" xil_pn:in_ck="-3868355138964531919" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1610274805">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="Licznik8Bit_TestBench.vhd"/>
       <outfile xil_pn:name="Licznik_vhdlModule.vhd"/>
     </transform>
-    <transform xil_pn:end_ts="1610273705" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="7502773007579666329" xil_pn:start_ts="1610273705">
+    <transform xil_pn:end_ts="1610274638" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="7502773007579666329" xil_pn:start_ts="1610274638">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1610273705" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="3071894872661214199" xil_pn:start_ts="1610273705">
+    <transform xil_pn:end_ts="1610274638" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="3071894872661214199" xil_pn:start_ts="1610274638">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
@@ -53,13 +56,13 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1610273705" xil_pn:in_ck="-3868355138964531919" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1610273705">
+    <transform xil_pn:end_ts="1610274805" xil_pn:in_ck="-3868355138964531919" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1610274805">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="Licznik8Bit_TestBench.vhd"/>
       <outfile xil_pn:name="Licznik_vhdlModule.vhd"/>
     </transform>
-    <transform xil_pn:end_ts="1610273709" xil_pn:in_ck="-3868355138964531919" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="6391356876963720137" xil_pn:start_ts="1610273705">
+    <transform xil_pn:end_ts="1610274808" xil_pn:in_ck="-3868355138964531919" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="6391356876963720137" xil_pn:start_ts="1610274805">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
@@ -68,13 +71,17 @@
       <outfile xil_pn:name="Licznik8Bit_TestBench_isim_beh.exe"/>
       <outfile xil_pn:name="fuse.log"/>
       <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
       <outfile xil_pn:name="xilinxsim.ini"/>
     </transform>
-    <transform xil_pn:end_ts="1610273709" xil_pn:in_ck="2008741094662039033" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-7244357985450680746" xil_pn:start_ts="1610273709">
+    <transform xil_pn:end_ts="1610274809" xil_pn:in_ck="-7820860766087499921" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-8850698610013643783" xil_pn:start_ts="1610274808">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="Licznik8Bit_TestBench_isim_beh.wdb"/>
       <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
     </transform>
   </transforms>
 

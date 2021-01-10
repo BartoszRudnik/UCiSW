@@ -14,8 +14,7 @@ Compiling package textio
 Compiling architecture behavioral of entity Licznik_vhdlModule [licznik_vhdlmodule_default]
 Compiling architecture behavior of entity licznik8bit_testbench
 Time Resolution for simulation is 1ps.
-Waiting for 1 sub-compilation(s) to finish...
 Compiled 7 VHDL Units
 Built simulation executable D:/STUDIA/V semestr/UCISW/Lab_7/licznik_8bitowy/Licznik8Bit_TestBench_isim_beh.exe
-Fuse Memory Usage: 36348 KB
-Fuse CPU Usage: 499 ms
+Fuse Memory Usage: 36344 KB
+Fuse CPU Usage: 483 ms

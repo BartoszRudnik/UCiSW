@@ -35,15 +35,7 @@ begin
 				
 			if (startValue2 = "11111111") then
 				startValue2 <= "00000000";
-			end if;
-				
-			if (startValue2 >= "10000000") then
-				half <= '1';
-			end if;
-			
-			if(startValue2 < "10000000") then
-				half <= '0';
-			end if;
+			end if;			
 			
 		end if;
 		
@@ -65,7 +57,15 @@ begin
 		
 		if rising_edge(Load) then
 			startValue2 <= startValue;
-		end if;		
+		end if;
+
+		if (startValue2 >= "10000000") then
+			half <= '1';
+		end if;
+			
+		if(startValue2 < "10000000") then
+			half <= '0';
+		end if;	
 		
 	end process process1;	
 	
