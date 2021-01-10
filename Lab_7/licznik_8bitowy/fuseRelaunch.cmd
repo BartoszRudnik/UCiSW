@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/STUDIA/V semestr/UCISW/Lab_7/licznik_8bitowy/Licznik8Bit_TestBench_isim_beh.exe" -prj "D:/STUDIA/V semestr/UCISW/Lab_7/licznik_8bitowy/Licznik8Bit_TestBench_beh.prj" "work.Licznik8Bit_TestBench" 

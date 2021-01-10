@@ -1,0 +1,2 @@
+vhdl work "Licznik_vhdlModule.vhd"
+vhdl work "Licznik8Bit_TestBench.vhd"
