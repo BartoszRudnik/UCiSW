@@ -1,29 +1,29 @@
 Command line:
    liczniktestbench_isim_beh.exe
      -simmode  gui
-     -simrunnum  1
-     -socket  52118
+     -simrunnum  0
+     -socket  56066
 
-Sat Jan 09 17:16:18 2021
+Sun Jan 10 01:54:00 2021
 
 
  Elaboration Time: 0.03125 sec
 
- Current Memory Usage: 4678.52 Meg
+ Current Memory Usage: 4678.51 Meg
 
- Total Signals          : 9
- Total Nets             : 26
- Total Signal Drivers   : 4
- Total Blocks           : 4
- Total Primitive Blocks : 3
- Total Processes        : 3
+ Total Signals          : 20
+ Total Nets             : 32
+ Total Signal Drivers   : 9
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 7
  Total Traceable Variables  : 13
- Total Scalar Nets and Variables : 509
-Total Line Count : 11
+ Total Scalar Nets and Variables : 515
+Total Line Count : 25
 
- Total Simulation Time: 0.625 sec
+ Total Simulation Time: 0.078125 sec
 
- Current Memory Usage: 4993.09 Meg
+ Current Memory Usage: 4993.08 Meg
 
-Sat Jan 09 17:18:00 2021
+Sun Jan 10 01:58:26 2021
 

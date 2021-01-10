@@ -30,14 +30,16 @@
     <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="liczniktestbench_beh.prj"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="liczniktestbench_isim_beh.exe"/>
     <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="liczniktestbench_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="liczniktestbench_stx_beh.prj"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
   </files>
 
   <transforms xmlns="http://www.xilinx.com/XMLSchema">
     <transform xil_pn:end_ts="1610202402" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1610202402">
       <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1610208932" xil_pn:in_ck="3428986808693882782" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1610208932">
+    <transform xil_pn:end_ts="1610239738" xil_pn:in_ck="3428986808693882782" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1610239738">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="licznik8bitowy.vhd"/>
@@ -47,7 +49,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1610204607" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="4624948733431397761" xil_pn:start_ts="1610204607">
+    <transform xil_pn:end_ts="1610223675" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="4624948733431397761" xil_pn:start_ts="1610223675">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
@@ -55,26 +57,29 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1610208932" xil_pn:in_ck="3428986808693882782" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1610208932">
+    <transform xil_pn:end_ts="1610239738" xil_pn:in_ck="3428986808693882782" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1610239738">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="licznik8bitowy.vhd"/>
       <outfile xil_pn:name="liczniktestbench.vhd"/>
     </transform>
-    <transform xil_pn:end_ts="1610208935" xil_pn:in_ck="3428986808693882782" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="7525699667918867101" xil_pn:start_ts="1610208932">
+    <transform xil_pn:end_ts="1610239741" xil_pn:in_ck="3428986808693882782" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="7525699667918867101" xil_pn:start_ts="1610239738">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="fuse.log"/>
       <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
       <outfile xil_pn:name="liczniktestbench_beh.prj"/>
       <outfile xil_pn:name="liczniktestbench_isim_beh.exe"/>
       <outfile xil_pn:name="xilinxsim.ini"/>
     </transform>
-    <transform xil_pn:end_ts="1610208977" xil_pn:in_ck="-7632112863682492228" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="4610457981730151818" xil_pn:start_ts="1610208976">
+    <transform xil_pn:end_ts="1610240039" xil_pn:in_ck="-7632112863682492228" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="4610457981730151818" xil_pn:start_ts="1610240038">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="isim.cmd"/>
       <outfile xil_pn:name="isim.log"/>
       <outfile xil_pn:name="liczniktestbench_isim_beh.wdb"/>

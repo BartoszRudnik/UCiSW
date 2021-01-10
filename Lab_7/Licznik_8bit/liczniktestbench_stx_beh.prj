@@ -1,0 +1,2 @@
+vhdl isim_temp "licznik8bitowy.vhd"
+vhdl isim_temp "liczniktestbench.vhd"

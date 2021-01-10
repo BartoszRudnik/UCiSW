@@ -10,10 +10,12 @@ Completed static elaboration
 Compiling package standard
 Compiling package std_logic_1164
 Compiling package numeric_std
+Compiling package textio
 Compiling architecture behavioral of entity licznik8bitowy [licznik8bitowy_default]
 Compiling architecture behavior of entity liczniktestbench
 Time Resolution for simulation is 1ps.
-Compiled 6 VHDL Units
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
 Built simulation executable D:/STUDIA/V semestr/UCISW/Lab_7/Licznik_8bit/liczniktestbench_isim_beh.exe
-Fuse Memory Usage: 36008 KB
-Fuse CPU Usage: 421 ms
+Fuse Memory Usage: 36180 KB
+Fuse CPU Usage: 468 ms
