@@ -62,7 +62,7 @@
       <outfile xil_pn:name="Licznik8Bit_TestBench.vhd"/>
       <outfile xil_pn:name="Licznik_vhdlModule.vhd"/>
     </transform>
-    <transform xil_pn:end_ts="1610274808" xil_pn:in_ck="-3868355138964531919" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="6391356876963720137" xil_pn:start_ts="1610274805">
+    <transform xil_pn:end_ts="1611753588" xil_pn:in_ck="-3868355138964531919" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="6391356876963720137" xil_pn:start_ts="1611753579">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
@@ -74,7 +74,7 @@
       <outfile xil_pn:name="isim.log"/>
       <outfile xil_pn:name="xilinxsim.ini"/>
     </transform>
-    <transform xil_pn:end_ts="1610274809" xil_pn:in_ck="-7820860766087499921" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-8850698610013643783" xil_pn:start_ts="1610274808">
+    <transform xil_pn:end_ts="1611753588" xil_pn:in_ck="-7820860766087499921" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-8850698610013643783" xil_pn:start_ts="1611753588">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>

@@ -73,7 +73,7 @@
       <outfile xil_pn:name="licznik_test_maszyna_isim_beh.exe"/>
       <outfile xil_pn:name="xilinxsim.ini"/>
     </transform>
-    <transform xil_pn:end_ts="1610204150" xil_pn:in_ck="-5686072671388045308" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="5899722679189729324" xil_pn:start_ts="1610204150">
+    <transform xil_pn:end_ts="1611008957" xil_pn:in_ck="-5686072671388045308" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="5899722679189729324" xil_pn:start_ts="1611008956">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>

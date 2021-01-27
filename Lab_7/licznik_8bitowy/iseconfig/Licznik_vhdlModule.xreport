@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2021-01-10T11:21:45</DateModified>
+  <DateModified>2021-01-27T14:19:22</DateModified>
   <ModuleName>Licznik_vhdlModule</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>D:/STUDIA/V semestr/UCISW/Lab_7/licznik_8bitowy/iseconfig/Licznik_vhdlModule.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>D:/STUDIA/V semestr/UCISW/Lab_7/licznik_8bitowy</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>D:/STUDIA/V semestr/UCISW/Lab_7/licznik_8bitowy\</ImplementationReportsDirectory>
   <DateInitialized>2021-01-10T11:21:44</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

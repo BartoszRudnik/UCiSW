@@ -2,14 +2,14 @@ Command line:
    licznik_test_maszyna_isim_beh.exe
      -simmode  gui
      -simrunnum  0
-     -socket  51823
+     -socket  50180
 
-Sat Jan 09 15:55:51 2021
+Mon Jan 18 23:29:21 2021
 
 
  Elaboration Time: 0.046875 sec
 
- Current Memory Usage: 4678.38 Meg
+ Current Memory Usage: 4678.39 Meg
 
  Total Signals          : 11
  Total Nets             : 9
@@ -21,9 +21,9 @@ Sat Jan 09 15:55:51 2021
  Total Scalar Nets and Variables : 369
 Total Line Count : 23
 
- Total Simulation Time: 0.046875 sec
+ Total Simulation Time: 0.4375 sec
 
- Current Memory Usage: 4678.38 Meg
+ Current Memory Usage: 4992.96 Meg
 
-Sat Jan 09 15:55:59 2021
+Mon Jan 18 23:31:31 2021
 
