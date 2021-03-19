@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "D:/Xilinx_programy/lab5_zad1_rownanie/zad1_rownania.xst" -ofn "D:/Xilinx_programy/lab5_zad1_rownanie/zad1_rownania.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 zad1_rownania.ngc zad1_rownania.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o zad1_rownania_map.ncd zad1_rownania.ngd zad1_rownania.pcf 
+par -w -intstyle ise -ol high -mt off zad1_rownania_map.ncd zad1_rownania.ncd zad1_rownania.pcf 

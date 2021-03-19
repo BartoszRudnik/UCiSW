@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Xilinx_programy/LAB5/Funkcja_G_Rownanie/funkcja_G_test_isim_beh.exe" -prj "D:/Xilinx_programy/LAB5/Funkcja_G_Rownanie/funkcja_G_test_beh.prj" "work.funkcja_G_test" 

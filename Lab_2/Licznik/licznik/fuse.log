@@ -1,0 +1,27 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/Xilinx_programy/licznik/schematLicznik_schematLicznik_sch_tb_isim_beh.exe -prj D:/Xilinx_programy/licznik/schematLicznik_schematLicznik_sch_tb_beh.prj work.schematLicznik_schematLicznik_sch_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Xilinx_programy/licznik/schematLicznik.vhf" into library work
+Parsing VHDL file "D:/Xilinx_programy/licznik/licznikTest.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture fd_v of entity FD [\FD('0')\]
+Compiling architecture and2b2_v of entity AND2B2 [and2b2_default]
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture and2b1_v of entity AND2B1 [and2b1_default]
+Compiling architecture or2_v of entity OR2 [or2_default]
+Compiling architecture buf_v of entity BUF [buf_default]
+Compiling architecture behavioral of entity schematLicznik [schematlicznik_default]
+Compiling architecture behavioral of entity schematlicznik_schematlicznik_sc...
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 19 VHDL Units
+Built simulation executable D:/Xilinx_programy/licznik/schematLicznik_schematLicznik_sch_tb_isim_beh.exe
+Fuse Memory Usage: 50220 KB
+Fuse CPU Usage: 639 ms

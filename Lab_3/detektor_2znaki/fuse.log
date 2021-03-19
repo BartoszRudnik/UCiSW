@@ -1,0 +1,25 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/Xilinx_programy/detektor_2znaki/schemat_2znaki_schemat_2znaki_sch_tb_isim_beh.exe -prj D:/Xilinx_programy/detektor_2znaki/schemat_2znaki_schemat_2znaki_sch_tb_beh.prj work.schemat_2znaki_schemat_2znaki_sch_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Xilinx_programy/detektor_2znaki/schemat_2znaki.vhf" into library work
+Parsing VHDL file "D:/Xilinx_programy/detektor_2znaki/test_sekwencja2znaki.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture comp4_hxilinx_schemat_2znaki_v of entity COMP4_HXILINX_schemat_2znaki [comp4_hxilinx_schemat_2znaki_def...]
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture vcc_v of entity VCC [vcc_default]
+Compiling architecture gnd_v of entity GND [gnd_default]
+Compiling architecture behavioral of entity schemat_2znaki [schemat_2znaki_default]
+Compiling architecture behavioral of entity schemat_2znaki_schemat_2znaki_sc...
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 15 VHDL Units
+Built simulation executable D:/Xilinx_programy/detektor_2znaki/schemat_2znaki_schemat_2znaki_sch_tb_isim_beh.exe
+Fuse Memory Usage: 50440 KB
+Fuse CPU Usage: 546 ms

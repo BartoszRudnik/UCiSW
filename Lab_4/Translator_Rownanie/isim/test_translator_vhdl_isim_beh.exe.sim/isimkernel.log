@@ -1,0 +1,29 @@
+Command line:
+   test_translator_vhdl_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  53473
+
+Sun Nov 22 21:18:29 2020
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 4678.95 Meg
+
+ Total Signals          : 16
+ Total Nets             : 8
+ Total Signal Drivers   : 8
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 8
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 368
+Total Line Count : 8
+
+ Total Simulation Time: 0.1875 sec
+
+ Current Memory Usage: 4993.52 Meg
+
+Sun Nov 22 21:20:08 2020
+

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Xilinx_programy/dwaZczterech/dwaZ4_schemat_dwaZ4_schemat_sch_tb_isim_beh.exe" -prj "D:/Xilinx_programy/dwaZczterech/dwaZ4_schemat_dwaZ4_schemat_sch_tb_beh.prj" "work.dwaZ4_schemat_dwaZ4_schemat_sch_tb" 

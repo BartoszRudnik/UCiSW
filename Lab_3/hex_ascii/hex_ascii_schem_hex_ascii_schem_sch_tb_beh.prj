@@ -1,0 +1,2 @@
+vhdl work "hex_ascii_schem.vhf"
+vhdl work "hex_ascii_test.vhd"

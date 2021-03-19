@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Xilinx_programy/lab5_zad1_rownanie/test_zad1_rownanie_isim_beh.exe" -prj "D:/Xilinx_programy/lab5_zad1_rownanie/test_zad1_rownanie_beh.prj" "work.test_zad1_rownanie" 

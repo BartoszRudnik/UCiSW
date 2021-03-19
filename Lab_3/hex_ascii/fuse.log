@@ -1,0 +1,29 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/Xilinx_programy/hex_ascii/hex_ascii_schem_hex_ascii_schem_sch_tb_isim_beh.exe -prj D:/Xilinx_programy/hex_ascii/hex_ascii_schem_hex_ascii_schem_sch_tb_beh.prj work.hex_ascii_schem_hex_ascii_schem_sch_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Xilinx_programy/hex_ascii/hex_ascii_schem.vhf" into library work
+Parsing VHDL file "D:/Xilinx_programy/hex_ascii/hex_ascii_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture compm4_hxilinx_hex_ascii_schem_v of entity COMPM4_HXILINX_hex_ascii_schem [compm4_hxilinx_hex_ascii_schem_d...]
+Compiling architecture vcc_v of entity VCC [vcc_default]
+Compiling architecture gnd_v of entity GND [gnd_default]
+Compiling architecture m2_1_hxilinx_hex_ascii_schem_v of entity M2_1_HXILINX_hex_ascii_schem [m2_1_hxilinx_hex_ascii_schem_def...]
+Compiling architecture buf_v of entity BUF [buf_default]
+Compiling architecture add4_hxilinx_hex_ascii_schem_v of entity ADD4_HXILINX_hex_ascii_schem [add4_hxilinx_hex_ascii_schem_def...]
+Compiling architecture behavioral of entity hex_ascii_schem [hex_ascii_schem_default]
+Compiling architecture behavioral of entity hex_ascii_schem_hex_ascii_schem_...
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 21 VHDL Units
+Built simulation executable D:/Xilinx_programy/hex_ascii/hex_ascii_schem_hex_ascii_schem_sch_tb_isim_beh.exe
+Fuse Memory Usage: 52640 KB
+Fuse CPU Usage: 686 ms
